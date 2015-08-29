@@ -102,7 +102,8 @@ Component List
 	@include md-date-picker;
 <p>3. Run package build command from Material package folder</p>
 	sencha package build
-<p>4. And build your application again</p>
+<p>4. Add the 'Material' package to your app.json "requires" array.
+<p>5. And build your application again</p>
 	sencha app build
 <p>After this, all of default control in your project should be change to Material style</p>
 <p>Run the samples of SenchaUI project for more details</p>
